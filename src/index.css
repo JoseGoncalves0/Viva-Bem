@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-hand: "Caveat", cursive;
+  --color-ink: #0a1220;
+  --color-panel: #101a2c;
+  --color-line: #1f2d45;
+  --color-brand: #2fd9a8;
+}
+
+html { scroll-behavior: smooth; }
+body { @apply bg-ink text-white font-sans antialiased overflow-x-hidden; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
