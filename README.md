@@ -268,9 +268,6 @@ O VivaBem é um **projeto pessoal e acadêmico**, criado para aplicar na prátic
 
 [![GitHub](https://img.shields.io/badge/GitHub-JoseGoncalves0-181717?style=flat-square&logo=github)](https://github.com/JoseGoncalves0)
 
-## 📄 Licença
-
-Este projeto está disponível para fins educacionais e de aprendizado.
 
 ---
 
