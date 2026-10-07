@@ -80,7 +80,7 @@ Ajudar o usuário a responder perguntas como:
 
 | Página inicial | Resultado da simulação |
 | :---: | :---: |
-| ![Página inicial](docs/screenshots/home.png) | ![Resultado da simulação](docs/screenshots/resultado.png) |
+| ![Página inicial](docs/screenshots/home.png) | 
 
 ## 🛠️ Tecnologias
 
