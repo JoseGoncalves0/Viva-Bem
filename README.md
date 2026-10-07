@@ -28,7 +28,6 @@ Descubra quanto custa viver em diferentes cidades do Brasil e encontre o lugar q
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Objetivo](#-objetivo)
 - [Funcionalidades](#-funcionalidades)
-- [Telas](#-telas)
 - [Tecnologias](#-tecnologias)
 - [Como executar](#-como-executar)
 - [Estrutura do projeto](#-estrutura-do-projeto)
@@ -38,7 +37,6 @@ Descubra quanto custa viver em diferentes cidades do Brasil e encontre o lugar q
 - [Sobre os dados](#-sobre-os-dados)
 - [Contexto acadêmico](#-contexto-acadêmico)
 - [Autor](#-autor)
-- [Licença](#-licença)
 
 ---
 
@@ -70,17 +68,6 @@ Ajudar o usuário a responder perguntas como:
 | 🔐 **Login e cadastro** | Telas de acesso com validação de formulário e sessão de usuário. |
 | 📱 **Design responsivo** | Funciona em desktop, notebook, tablet e smartphone. |
 
-## 🖼️ Telas
-
-> Adicione as capturas de tela na pasta `docs/screenshots/` para que elas apareçam aqui.
-
-| Login | Cadastro |
-| :---: | :---: |
-| ![Tela de login](docs/screenshots/login.png) | ![Tela de cadastro](docs/screenshots/cadastro.png) |
-
-| Página inicial | Resultado da simulação |
-| :---: | :---: |
-| ![Página inicial](docs/screenshots/home.png) | 
 
 ## 🛠️ Tecnologias
 
