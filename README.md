@@ -220,18 +220,6 @@ São Paulo (SP), Curitiba (PR), Belo Horizonte (MG), Rio de Janeiro (RJ), Porto 
 
 Para adicionar uma cidade ou trocar os dados por uma API, edite `src/data/cities.ts` mantendo o formato `City[]`.
 
-## 🔐 Autenticação (versão de demonstração)
-
-As telas de **login** e **cadastro** já estão prontas, com validação dos campos, mostrar/ocultar senha, mensagens de erro e sessão de usuário.
-
-- **Cadastro:** nome completo, e-mail válido, senha com no mínimo 8 caracteres e confirmação de senha.
-- **Login:** aceita o e-mail ou o nome de usuário (parte do e-mail antes do `@`).
-- **Cabeçalho:** após entrar, exibe *"Olá, Nome"* e o botão **Sair**.
-
-> ⚠️ **Atenção:** nesta versão os usuários ficam salvos no `localStorage` do próprio navegador, sem servidor. Isso serve apenas para demonstrar o fluxo e **não oferece segurança real**. Os botões *Entrar com Google* e *Esqueceu sua senha?* ainda não estão conectados.
->
-> Para integrar com um backend, substitua apenas as funções `registerUser` e `loginUser` em `src/data/auth.ts`. As telas não precisam mudar.
-
 ## 🗺️ Roadmap
 
 ### ✅ Versão 1.0 — MVP
@@ -280,9 +268,6 @@ O VivaBem é um **projeto pessoal e acadêmico**, criado para aplicar na prátic
 
 [![GitHub](https://img.shields.io/badge/GitHub-JoseGoncalves0-181717?style=flat-square&logo=github)](https://github.com/JoseGoncalves0)
 
-## 📄 Licença
-
-Este projeto está disponível para fins educacionais e de aprendizado.
 
 ---
 
